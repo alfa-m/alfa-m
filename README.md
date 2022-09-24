@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![Obi Wan hello there gif](https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-size_restricted.gif)
 
 <!--
 **alfa-m/alfa-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
