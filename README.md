@@ -4,7 +4,7 @@
 
 My name is Alfa.
 
-I'm a undergraduate student in electrical engineering at Federal University of Pará (UFPA).
+I'm a undergraduate electrical engineering student at Federal University of Pará (UFPA).
 
 When the Rangers aren't getting themselves in trouble, I like to dabble a little with R and to study artificial intelligence.
 
