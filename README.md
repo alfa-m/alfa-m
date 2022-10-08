@@ -1,8 +1,6 @@
-### Hello there 👋
+# Hello there 👋 My name is Alfa
 
 ![Obi Wan hello there gif](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-My name is Alfa.
 
 I'm a undergraduate electrical engineering student at Federal University of Pará (UFPA).
 
