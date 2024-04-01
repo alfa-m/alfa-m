@@ -6,4 +6,4 @@ I'm a undergraduate electrical engineering student at Federal University of Par�
 
 When the Rangers aren't getting themselves in trouble, I like to dabble a little with R and to study artificial intelligence.
 
-I’m currently enrolled at the fourth cohort of [Front-End Foxes School](https://github.com/frontendfoxes) 🦊
+I’m currently learning Java.
