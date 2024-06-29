@@ -17,5 +17,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-m&theme=dracula" />
 </a>
 <a href="https://github.com/alfa-m/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfa-m&layout=compact&hide=jupyter%20notebook&langs_count=10&card_width=500&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfa-m&layout=compact&hide=jupyter%20notebook&langs_count=10&card_width=400&theme=dracula" />
 </a>
