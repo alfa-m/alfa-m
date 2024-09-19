@@ -6,7 +6,7 @@
 
 - I'm a undergraduate electrical engineering student at Federal University of Pará (UFPA).
 
-- When the Rangers aren't getting themselves in trouble, I like to dabble a little with data science and to study artificial intelligence.
+- When the Rangers aren't getting themselves in trouble, I like to study back-end development.
 
 - I’m currently learning Java and .NET.
 
