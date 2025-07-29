@@ -1,21 +1,68 @@
-# Hello there 👋 My name is Alfa
+-----
 
+# Olá! 👋 Eu me chamo Alfa
+
+### ⚡ Engenheira Eletricista (ou Engenheira Elétrica 😜)
 ![Obi Wan hello there gif](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-<h3 align="left">About me:</h3>
+-----
 
-- I'm a undergraduate electrical engineering student at Federal University of Pará (UFPA).
+## 🚀 Sobre Mim
 
-- When the Rangers aren't getting themselves in trouble, I like to study back-end development.
+Sou uma bacharel em engenharia elétrica com um pé em computação, buscando sempre aprender mais sobre inteligência computacional para aplicá-la em problemas enfrentados na engenharia e no dia-a-dia. Além disso, tenho interesse em desenvolvimento back-end e análise de dados.
 
-- I’m currently learning Java and .NET.
+Atualmente, estou focada em aprimorar minhas habilidades em aprendizado de máquina e conseguir minha primeira oportunidade profissional nas áreas de back-end e/ou análise de dados. Minhas principais experiências são em Java, Python e SQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+-----
 
-<a href="https://github.com/alfa-mra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alfa-m&theme=dracula" />
-</a>
-<a href="https://github.com/alfa-m/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfa-m&layout=compact&hide=jupyter%20notebook&langs_count=10&card_width=400&theme=dracula" />
-</a>
+## 🌱 O Que Estou Estudando Agora
+
+  * Objetos em Python
+  * IA
+  * Linux
+  * Algortimos
+  * Estruturas de dados
+
+-----
+
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
+
+**Linguagens de Programação:**
+
+[![](https://skillicons.dev/icons?i=py,java,r,js)](https://skillicons.dev)
+
+**Frameworks & Bibliotecas:**
+
+[![](https://skillicons.dev/icons?i=spring,vue)](https://skillicons.dev)
+
+**Bancos de Dados:**
+
+[![](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+**Ferramentas & Outros:**
+
+[![](https://skillicons.dev/icons?i=html,css,figma,ai,ps,xd,git,github,vscode,aws,matlab,octave)](https://skillicons.dev)
+
+-----
+
+## 📊 Estatísticas do GitHub
+
+[![alfa-m stats](https://github-readme-stats.vercel.app/api?username=alfa-m&show_icons=true&theme=tokyonight)](https://github.com/alfa-m/github-readme-stats)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alfa-m&theme=tokyonight&hide_progress=false&hide=jupyter%20notebook&layout=compact&langs_count=8)
+
+-----
+
+## 💬 Entre em Contato
+
+Sinta-se à vontade para se conectar comigo!
+
+  * **[LinkedIn](https://www.linkedin.com/in/alfa-marine)**
+  * **[Email](mailto:mailto:alfamarine.ferreira@gmail.com)**
+  * **[Portfólio](https://alfa-m.github.io/portfolio/)**
+
+-----
+
+### Obrigado(a) pela visita\! 😊
+![Obi Wan goodbye gif](https://media1.tenor.com/m/X6QX46HNb_EAAAAC/star-wars-episode3.gif)
