@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 
 **Ferramentas & Outros:**
 
-[![](https://skillicons.dev/icons?i=html,css,figma,ai,ps,xd,git,github,vscode,aws,matlab,octave)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,figma,ai,ps,git,github,vscode,aws,matlab,octave)](https://skillicons.dev)
 
 ## 📊 Estatísticas do GitHub
 
