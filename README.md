@@ -14,8 +14,6 @@ Atualmente, estou focada em aprimorar minhas habilidades em aprendizado de máqu
   * Objetos em Python
   * IA
   * Linux
-  * Algortimos
-  * Estruturas de dados
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -52,3 +50,52 @@ Sinta-se à vontade para se conectar comigo!
 
 ### Obrigado(a) pela visita\! 😊
 ![Obi Wan goodbye gif](https://media1.tenor.com/m/X6QX46HNb_EAAAAC/star-wars-episode3.gif)
+
+------------------------------------------------------------------------------------------------
+
+# Hello! 👋 My name is Alfa
+
+### ⚡ Electrical Engineer
+
+## 🚀 About Me
+
+I hold a bachelor's degree in electrical engineering, with a strong interest in computer science. I continually seek to expand my knowledge of computational intelligence to apply it to problems encountered in engineering and daily life. I'm also interested in back-end development and data analysis.
+
+Currently, I'm focused on improving my machine learning skills and landing my first professional opportunity in the back-end and/or data analysis fields. My main experiences are in Java, Python, and SQL.
+
+## 🌱 What I'm Studying Now
+
+  * Python Objects
+  * AI
+  * Linux
+
+## 🛠️ Technologies and Tools
+
+Here are some of the technologies and tools I have experience with:
+
+**Programming Languages:**
+
+[![](https://skillicons.dev/icons?i=py,java,r,js)](https://skillicons.dev)
+
+**Frameworks & Libraries:**
+
+[![](https://skillicons.dev/icons?i=spring,vue)](https://skillicons.dev)
+
+**Databases:**
+
+[![](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+**Tools & Others:**
+
+[![](https://skillicons.dev/icons?i=html,css,figma,ai,ps,git,github,vscode,aws,matlab,octave)](https://skillicons.dev)
+
+## 💬 Get in Touch
+
+Feel free to connect with me\!
+
+  * **[LinkedIn](https://www.linkedin.com/in/alfa-marine)**
+  * **[Email](mailto:mailto:alfamarine.ferreira@gmail.com)**
+  * **[Portfolio](https://alfa-m.github.io/portfolio/)**
+
+### Thanks for visiting! 😊
+
