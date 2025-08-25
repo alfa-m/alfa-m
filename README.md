@@ -1,6 +1,6 @@
 # Olá! 👋 Eu me chamo Alfa
 
-### ⚡ Engenheira Eletricista (ou Engenheira Elétrica 😜)
+### ⚡ Engenheira Eletricista (ou Engenheira Elétrica 😉)
 ![Obi Wan hello there gif](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
 ## 🚀 Sobre Mim
