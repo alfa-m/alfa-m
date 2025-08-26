@@ -59,9 +59,9 @@ Sinta-se à vontade para se conectar comigo!
 
 ## 🚀 About Me
 
-I hold a bachelor's degree in electrical engineering, with a strong interest in computer science. I continually seek to expand my knowledge of computational intelligence to apply it to problems encountered in engineering and daily life. I'm also interested in back-end development and data analysis.
+I'm a Bachelor of Science in Electrical Engineering with a strong interest in computer science. I'm passionate about studying computational intelligence and how it is applied to solve real-world problems in engineering and beyond. My interests also include back-end development and data analysis.
 
-Currently, I'm focused on improving my machine learning skills and landing my first professional opportunity in the back-end and/or data analysis fields. My main experiences are in Java, Python, and SQL.
+Currently, my goal is to further develop my machine learning skills and secure my first professional role in either the back-end or data analysis field. My core skills include Java, Python, and SQL.
 
 ## 🌱 What I'm Studying Now
 
